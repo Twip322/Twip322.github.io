@@ -1,0 +1,185 @@
+		.text{
+			position: absolute;
+			width: 366px;
+			height: 49px;
+			left: 640px;
+			top: 177px;
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 64px;
+			line-height: 17px;
+			/* or 27% */
+			display: flex;
+			align-items: flex-end;
+			color: #000000;
+			}
+			.container{
+			position: absolute;
+			width: 164px;
+			height: 175px;
+			left: 476px;
+			top: 25px;
+			background: url(image.png);
+			}
+			.ArticleName{
+			position: absolute;
+			width: 77px;
+			height: 24px;
+			left: 87px;
+			top: 233px;
+
+			font-family: Actor;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 16px;
+			line-height: 24px;
+
+			display: flex;
+			align-items: flex-end;
+			}
+			.form-group{
+			position: absolute;
+			width: 540px;
+			height: 38px;
+			left: 87px;
+			top: 265px;
+			}
+			.button{
+			position: absolute;
+			width: 127px;
+			height: 47px;
+			left: 56px;
+			top: 767px;
+			}
+			.DescriptionName{
+				position: absolute;
+				width: 237.06px;
+				height: 40.67px;
+				left: 80px;
+				top: 376px;
+
+				font-family: Actor;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 16px;
+				line-height: 24px;
+
+				display: flex;
+				align-items: flex-end;
+			}
+			.description{
+			position: absolute;
+			width: 753px;
+			height: 228.77px;
+			left: 80px;
+			top: 430.23px;
+			}
+			body {
+			margin: 0; /* Убираем отступы */
+		   }
+		   .table {
+			position: absolute; /* Абсолютное позиционирование */
+			margin: 20px;
+			width: 870px;
+			height: 40px
+		   }
+		   .ArticleFirst{
+				position: absolute;
+				width: 944.1px;
+				height: 115px;
+				left: 120px;
+				top: 241px;S
+			   }
+			   .ArticleSecond{
+				position: absolute;
+				width: 944.1px;
+				height: 115px;
+				left: 120px;
+				top: 406px;
+			   }
+			   .ArticleThird{
+				position: absolute;
+				width: 944.1px;
+				height: 115px;
+				left: 120px;
+				top: 571px;
+			   }
+			   .ArticleFourth{
+				position: absolute;
+				width: 944.1px;
+				height: 115px;
+				left: 120px;
+				top: 736px;
+			   }
+			   
+			   }
+			   .ArticleName{
+			position: absolute;
+			width: 77px;
+			height: 24px;
+			left: 87px;
+			top: 233px;
+
+			font-family: Actor;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 16px;
+			line-height: 24px;
+
+			display: flex;
+			align-items: flex-end;
+			}
+			.DescriptionName{
+			position: absolute;
+			width: 237.06px;
+			height: 40.67px;
+			left: 80px;
+			top: 376px;
+
+			font-family: Actor;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 16px;
+			line-height: 24px;
+
+			display: flex;
+			align-items: flex-end;
+			}
+			.description{
+			position: absolute;
+			width: 753px;
+			height: 228.77px;
+			left: 80px;
+			top: 430.23px;
+			}
+			.form-group{
+			position: absolute;
+			width: 540px;
+			height: 38px;
+			left: 87px;
+			top: 265px;
+			}
+			.text_1{
+				position: absolute;
+				width: 484px;
+				height: 143px;
+				left: 91px;
+				top: 25px;
+				font-family: Roboto;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 50px;
+				line-height: 17px;
+				/* or 34% */
+				display: flex;
+				align-items: flex-end;
+				color: #000000;
+			}
+			.button{
+			position: absolute;
+			width: 127px;
+			height: 47px;
+			left: 56px;
+			top: 767px;
+			}
